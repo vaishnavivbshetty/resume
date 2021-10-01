@@ -59,7 +59,7 @@ body {
 
 a {
     color: #0d0b5f;
-    text-decoration: none;
+    text-decoration: none; 
 }
 
 td {
@@ -148,7 +148,7 @@ element.style {
 
 .button1 {
     background-color: white;
-    color: black;
+    color: blue;
     border: 2px solid #939493;
 }
 
